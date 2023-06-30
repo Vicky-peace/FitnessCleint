@@ -4,7 +4,7 @@ import "./about.css";
 import HeaderImage from "../../images/header_bg_1.jpg";
 import StoryImage from "../../images/about3.jpg";
 import VisionImage from "../../images/Trainer 1.png";
-import MissionImage from "../../images/main_header.png";
+import MissionImage from "../../images/about2.jpg";
 import Card from '../../UI/Card'
 
 const About = () => {
